@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm [Antony Zhao] 👋
+Welcome to my GitHub profile! 
 
-<!--
-**AntiAntonyZhao/AntiAntonyZhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying in [McGill University]
+- 🌱 I’m currently learning [Software Engineering] as my major
+- 💼 I’m looking for an [internship]
+- 📫 How to reach me: [https://www.linkedin.com/in/antony-zhao-0b7774222/]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- **Languages:** [Java, Python, TypeScript, Go, C, C++, MIPS, OCAML, Bash]
+- **Frameworks:** [Spring Boot, React]
+- **Databases:** [MySQL]
+- **Tools:** [Git, Docker]
+
+## 🌟 Featured Projects
+
+### [Software Validation for REST API Todo List Manager]
+[Implemented a testing project for a REST API application using python, including 3 phases of testing: exploratory, story, and non-functional tests.]
+[Developed and executed a detailed exploratory testing strategy, including a unit test suite using pyTest, to identify both documented and undocumented features and ensure system stability.]
+[Crafted user stories and automated story tests using Cucumber, and conducted thorough performance testing to assess scalability.
+]
+- **Tech Stack:** [python & pyTest]
+- [Link to Project Repo]([https://github.com/yourusername/project1](https://github.com/AntiAntonyZhao/Software-Validation))
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/yourusername)
+- [Twitter](https://twitter.com/yourusername)
+- [Email](mailto:youremail@example.com)
+
+Thanks for visiting my GitHub profile! Let's build something amazing together. 🚀

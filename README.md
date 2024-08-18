@@ -27,7 +27,7 @@ Welcome to my GitHub profile!
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntiAntonyZhao&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AntiAntonyZhao&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## 📫 Connect with Me
 

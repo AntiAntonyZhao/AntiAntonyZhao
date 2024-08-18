@@ -24,11 +24,11 @@ Welcome to my GitHub profile!
 ]
 - **Tech Stack:** [python & pyTest]
 - [Link to Project Repo]([https://github.com/yourusername/project1](https://github.com/AntiAntonyZhao/Software-Validation))
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntiAntonyZhao&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 GitHub Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AntiAntonyZhao&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntiAntonyZhao&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Connect with Me
 

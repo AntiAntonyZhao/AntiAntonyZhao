@@ -27,12 +27,11 @@ Welcome to my GitHub profile!
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntiAntonyZhao&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/antony-zhao-0b7774222/)
+- [Email](anti.zhao@mail.mcgill.ca)
 
 Thanks for visiting my GitHub profile! Let's build something amazing together. 🚀

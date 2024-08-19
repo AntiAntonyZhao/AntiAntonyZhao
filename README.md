@@ -27,8 +27,8 @@ Welcome to my GitHub profile!
 
 ## 📈 GitHub Stats
 
-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AntiAntonyZhao&theme=meta-light&hide_border=true)](https://git.io/streak-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntiAntonyZhao&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AntiAntonyZhao&theme=meta-light&hide_border=true)]
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntiAntonyZhao&layout=compact&theme=default)]
 
 ## 📫 Connect with Me
 
